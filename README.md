@@ -7,7 +7,7 @@ Bu repo, React Native ile geliştirilmiş mobil bir anket uygulamasını içerir
 - Kullanıcı girişi ve kayıt olma
 <img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/login.jpeg" width="300"/>
 <img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/register.jpeg" width="300"/>
-<img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/register2" width="300"/>
+<img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/register2.jpeg" width="300"/>
 
 
 
