@@ -5,22 +5,25 @@ Bu repo, React Native ile geliştirilmiş mobil bir anket uygulamasını içerir
 ## Özellikler
 
 - Kullanıcı girişi ve kayıt olma
-<img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/login.jpeg" width="300"/><img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/register2.jpeg" width="300"/>
-<img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/register3.jpeg" width="300"/><img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/kvkk.jpeg" width="300"/>
+<img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/login.jpeg" width="300"/>   <img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/register2.jpeg" width="300"/>
+<img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/register3.jpeg" width="300"/>   <img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/kvkk.jpeg" width="300"/>
 <img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/kvkk2.jpeg" width="300"/>
+
 
   
 - Anket doldurma
-<img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/home%20(2).jpeg" width="300"/><img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/survey.jpeg" width="300"/>
-<img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/survey3.jpeg" width="300"/><img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/survey4.jpeg" width="300"/>
+<img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/home%20(2).jpeg" width="300"/>   <img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/survey.jpeg" width="300"/>
+<img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/survey3.jpeg" width="300"/>   <img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/survey4.jpeg" width="300"/>
 <img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/survey5.jpeg" width="300"/>
+
 
 - Geçmiş anket sonuçlarını görüntüleme
 <img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/anket.jpeg" width="300"/>
 
+
 - Kişisel profil bilgilerini düzenleme
-<img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/profil.jpeg.jpeg" width="300"/><img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/profil2.jpeg" width="300"/>
-<img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/profil3.jpeg" width="300"/><img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/profil4.jpeg" width="300"/>
+<img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/profil.jpeg.jpeg" width="300"/>   <img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/profil2.jpeg" width="300"/>
+<img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/profil3.jpeg" width="300"/>   <img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/profil4.jpeg" width="300"/>
 <img src="https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/profil5.jpeg" width="300"/>
 
 - Çıkış yapma özelliği
