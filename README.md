@@ -5,6 +5,13 @@ Bu repo, React Native ile geliştirilmiş mobil bir anket uygulamasını içerir
 ## Özellikler
 
 - Kullanıcı girişi ve kayıt olma
+
+![İmages](https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/login.jpeg)
+![İmages](https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/register.jpeg)
+![İmages](https://github.com/beyzaokutucu/SurveyApp/blob/main/readme/readme_img/register2.jpeg)
+
+
+  
 - Anket doldurma
 - Geçmiş anket sonuçlarını görüntüleme
 - Kişisel profil bilgilerini düzenleme
@@ -44,5 +51,5 @@ expo start
 
 Bu komutlar, geliştirme sunucusunu başlatır ve bir QR kodu üretir. Bu QR kodunu Expo Go uygulamasıyla taratarak uygulamayı mobil cihazınızda çalıştırabilirsiniz.
 
-###Kullanım
+### Kullanım
 Uygulama başlatıldığında, kullanıcı giriş sayfası ile karşılaşacaksınız. Mevcut bir hesabınız varsa kullanıcı adınız ve şifreniz ile giriş yapabilir, yoksa yeni hesap oluşturabilirsiniz. Giriş yaptıktan sonra anketlere erişebilir ve doldurabilirsiniz.
