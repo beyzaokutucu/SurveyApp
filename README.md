@@ -1,6 +1,8 @@
 # Mobil Anket Uygulaması
 
-Bu repo, React Native ile geliştirilmiş mobil bir anket uygulamasını içerir. Kullanıcılar bu uygulamayı kullanarak çeşitli anketlere katılabilir, geçmiş anket sonuçlarını inceleyebilir ve kişisel bilgilerini düzenleyebilirler.
+Bu repo, React Native kullanılarak geliştirilen mobil bir anket uygulamasını içermektedir. Kullanıcılar bu uygulamayı kullanarak çeşitli anketlere katılabilir, geçmiş anket sonuçlarını inceleyebilir ve kişisel bilgilerini düzenleyebilirler. Uygulamanın çalışır halini görmek için aşağıdaki YouTube linkine tıklayabilirsiniz.
+
+[Youtube'da Uygulamayı İzleyin](https://youtu.be/uJJIIYwUzsc?si=NbMIzyuEUNVThXMR)
 
 ## Özellikler
 
