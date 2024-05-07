@@ -1,0 +1,43 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "nickname": "johnDoe123",
+        "email": "johndoe@example.com",
+        "password": "123",
+        "birthdate": "1990-01-01",
+        "gender": "male"
+      },
+      {
+        "id": 2,
+        "nickname": "janeDoe456",
+        "email": "janedoe@example.com",
+        "password": "password456",
+        "birthdate": "1992-02-02",
+        "gender": "female"
+      },
+      {
+        "id": 3,
+        "nickname": "samSmith789",
+        "email": "samsmith@example.com",
+        "password": "password789",
+        "birthdate": "1988-03-03",
+        "gender": "male"
+      },
+      {
+        "id": 3,
+        "nickname": "beyza",
+        "email": "beyza@gmail.com",
+        "password": "5757",
+        "birthdate": "2001.09.30",
+        "gender": "female"
+      }
+    ]
+     "Questions": [
+    { title: "Fransa'nın başkenti neresidir?", options: ["Paris", "Berlin", "Roma"], correct: 0 },
+    { title: "Portakal hangi vitaminden zengindir?", options: ["Vitamin A", "Vitamin B", "Vitamin C"], correct: 2 },
+    { title: "Mona Lisa tablosunu kim çizmiştir?", options: ["Van Gogh", "Da Vinci", "Picasso"], correct: 1 },
+    { title: "Dünya üzerindeki en sert doğal madde nedir?", options: ["Altın", "Demir", "Elmas"], correct: 2 },
+    { title: "Bitkiler atmosferden hangi gazı emer?", options: ["Oksijen", "Karbondioksit", "Azot"], correct: 1 },
+  ]
+  }
